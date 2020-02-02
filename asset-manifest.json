@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wsart-links/static/css/main.d1b05096.chunk.css",
+    "main.js": "/wsart-links/static/js/main.a3f587c1.chunk.js",
+    "main.js.map": "/wsart-links/static/js/main.a3f587c1.chunk.js.map",
+    "runtime-main.js": "/wsart-links/static/js/runtime-main.d98791fa.js",
+    "runtime-main.js.map": "/wsart-links/static/js/runtime-main.d98791fa.js.map",
+    "static/js/2.eda41585.chunk.js": "/wsart-links/static/js/2.eda41585.chunk.js",
+    "static/js/2.eda41585.chunk.js.map": "/wsart-links/static/js/2.eda41585.chunk.js.map",
+    "index.html": "/wsart-links/index.html",
+    "precache-manifest.74e262c1610337ade67011d304fcd27c.js": "/wsart-links/precache-manifest.74e262c1610337ade67011d304fcd27c.js",
+    "service-worker.js": "/wsart-links/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/wsart-links/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eda41585.chunk.js.LICENSE.txt": "/wsart-links/static/js/2.eda41585.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wsart-links/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98791fa.js",
+    "static/js/2.eda41585.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a3f587c1.chunk.js"
+  ]
+}
